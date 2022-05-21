@@ -135,8 +135,8 @@ namespace CalculatorSS {
 			// 
 			this->textBox1->BackColor = System::Drawing::SystemColors::HighlightText;
 			this->textBox1->Enabled = false;
-			this->textBox1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 16.2F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->textBox1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 16.2F, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->textBox1->ForeColor = System::Drawing::Color::Black;
 			this->textBox1->Location = System::Drawing::Point(10, 51);
 			this->textBox1->Name = L"textBox1";
@@ -208,8 +208,8 @@ namespace CalculatorSS {
 			// 
 			// button7
 			// 
-			this->button7->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 10.2F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button7->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 10.2F, System::Drawing::FontStyle::Regular, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button7->Location = System::Drawing::Point(10, 108);
 			this->button7->Name = L"button7";
 			this->button7->Size = System::Drawing::Size(202, 70);
@@ -220,8 +220,8 @@ namespace CalculatorSS {
 			// 
 			// button8
 			// 
-			this->button8->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 10.2F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button8->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 10.2F, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button8->Location = System::Drawing::Point(388, 184);
 			this->button8->Name = L"button8";
 			this->button8->Size = System::Drawing::Size(66, 39);
@@ -232,8 +232,8 @@ namespace CalculatorSS {
 			// 
 			// button9
 			// 
-			this->button9->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button9->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button9->Location = System::Drawing::Point(460, 229);
 			this->button9->Name = L"button9";
 			this->button9->Size = System::Drawing::Size(66, 39);
@@ -244,8 +244,8 @@ namespace CalculatorSS {
 			// 
 			// button10
 			// 
-			this->button10->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 13.8F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button10->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 13.8F, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button10->Location = System::Drawing::Point(460, 275);
 			this->button10->Name = L"button10";
 			this->button10->Size = System::Drawing::Size(66, 39);
@@ -256,8 +256,8 @@ namespace CalculatorSS {
 			// 
 			// button11
 			// 
-			this->button11->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button11->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button11->Location = System::Drawing::Point(172, 274);
 			this->button11->Name = L"button11";
 			this->button11->Size = System::Drawing::Size(66, 39);
@@ -268,8 +268,8 @@ namespace CalculatorSS {
 			// 
 			// button12
 			// 
-			this->button12->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button12->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button12->Location = System::Drawing::Point(244, 274);
 			this->button12->Name = L"button12";
 			this->button12->Size = System::Drawing::Size(66, 39);
@@ -280,8 +280,8 @@ namespace CalculatorSS {
 			// 
 			// button13
 			// 
-			this->button13->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button13->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button13->Location = System::Drawing::Point(316, 274);
 			this->button13->Name = L"button13";
 			this->button13->Size = System::Drawing::Size(66, 39);
@@ -292,8 +292,8 @@ namespace CalculatorSS {
 			// 
 			// button14
 			// 
-			this->button14->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 13.8F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button14->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 13.8F, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button14->Location = System::Drawing::Point(460, 318);
 			this->button14->Name = L"button14";
 			this->button14->Size = System::Drawing::Size(66, 39);
@@ -304,8 +304,8 @@ namespace CalculatorSS {
 			// 
 			// button15
 			// 
-			this->button15->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button15->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button15->Location = System::Drawing::Point(172, 319);
 			this->button15->Name = L"button15";
 			this->button15->Size = System::Drawing::Size(66, 39);
@@ -316,8 +316,8 @@ namespace CalculatorSS {
 			// 
 			// button16
 			// 
-			this->button16->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button16->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button16->Location = System::Drawing::Point(244, 319);
 			this->button16->Name = L"button16";
 			this->button16->Size = System::Drawing::Size(66, 39);
@@ -328,8 +328,8 @@ namespace CalculatorSS {
 			// 
 			// button17
 			// 
-			this->button17->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button17->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button17->Location = System::Drawing::Point(316, 319);
 			this->button17->Name = L"button17";
 			this->button17->Size = System::Drawing::Size(66, 39);
@@ -340,8 +340,8 @@ namespace CalculatorSS {
 			// 
 			// button18
 			// 
-			this->button18->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button18->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button18->Location = System::Drawing::Point(172, 364);
 			this->button18->Name = L"button18";
 			this->button18->Size = System::Drawing::Size(66, 39);
@@ -352,8 +352,8 @@ namespace CalculatorSS {
 			// 
 			// button19
 			// 
-			this->button19->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button19->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button19->Location = System::Drawing::Point(244, 364);
 			this->button19->Name = L"button19";
 			this->button19->Size = System::Drawing::Size(66, 39);
@@ -364,8 +364,8 @@ namespace CalculatorSS {
 			// 
 			// button20
 			// 
-			this->button20->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button20->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button20->Location = System::Drawing::Point(316, 364);
 			this->button20->Name = L"button20";
 			this->button20->Size = System::Drawing::Size(66, 39);
@@ -376,8 +376,8 @@ namespace CalculatorSS {
 			// 
 			// button21
 			// 
-			this->button21->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button21->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button21->Location = System::Drawing::Point(172, 409);
 			this->button21->Name = L"button21";
 			this->button21->Size = System::Drawing::Size(138, 39);
@@ -388,8 +388,8 @@ namespace CalculatorSS {
 			// 
 			// button22
 			// 
-			this->button22->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 16.2F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button22->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 16.2F, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button22->Location = System::Drawing::Point(316, 409);
 			this->button22->Name = L"button22";
 			this->button22->Size = System::Drawing::Size(66, 39);
@@ -400,8 +400,8 @@ namespace CalculatorSS {
 			// 
 			// button23
 			// 
-			this->button23->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 13.8F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button23->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 13.8F, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button23->Location = System::Drawing::Point(388, 364);
 			this->button23->Name = L"button23";
 			this->button23->Size = System::Drawing::Size(66, 84);
@@ -412,8 +412,8 @@ namespace CalculatorSS {
 			// 
 			// button24
 			// 
-			this->button24->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 16.2F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button24->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 16.2F, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button24->Location = System::Drawing::Point(460, 364);
 			this->button24->Name = L"button24";
 			this->button24->Size = System::Drawing::Size(66, 84);
@@ -424,8 +424,8 @@ namespace CalculatorSS {
 			// 
 			// button25
 			// 
-			this->button25->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button25->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button25->Location = System::Drawing::Point(172, 185);
 			this->button25->Name = L"button25";
 			this->button25->Size = System::Drawing::Size(138, 39);
@@ -436,8 +436,8 @@ namespace CalculatorSS {
 			// 
 			// button26
 			// 
-			this->button26->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button26->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button26->Location = System::Drawing::Point(316, 184);
 			this->button26->Name = L"button26";
 			this->button26->Size = System::Drawing::Size(66, 39);
@@ -448,8 +448,8 @@ namespace CalculatorSS {
 			// 
 			// button27
 			// 
-			this->button27->Font = (gcnew System::Drawing::Font(L"Wingdings 3", 13.8F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(2)));
+			this->button27->Font = (gcnew System::Drawing::Font(L"Wingdings 3", 13.8F, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(2)));
 			this->button27->Location = System::Drawing::Point(460, 184);
 			this->button27->Name = L"button27";
 			this->button27->Size = System::Drawing::Size(66, 39);
@@ -460,8 +460,8 @@ namespace CalculatorSS {
 			// 
 			// button29
 			// 
-			this->button29->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button29->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button29->Location = System::Drawing::Point(172, 229);
 			this->button29->Name = L"button29";
 			this->button29->Size = System::Drawing::Size(66, 39);
@@ -472,8 +472,8 @@ namespace CalculatorSS {
 			// 
 			// button30
 			// 
-			this->button30->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button30->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button30->Location = System::Drawing::Point(244, 229);
 			this->button30->Name = L"button30";
 			this->button30->Size = System::Drawing::Size(66, 39);
@@ -484,8 +484,8 @@ namespace CalculatorSS {
 			// 
 			// button31
 			// 
-			this->button31->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button31->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button31->Location = System::Drawing::Point(316, 229);
 			this->button31->Name = L"button31";
 			this->button31->Size = System::Drawing::Size(66, 39);
@@ -496,8 +496,8 @@ namespace CalculatorSS {
 			// 
 			// button32
 			// 
-			this->button32->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button32->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button32->Location = System::Drawing::Point(388, 229);
 			this->button32->Name = L"button32";
 			this->button32->Size = System::Drawing::Size(66, 39);
@@ -508,8 +508,8 @@ namespace CalculatorSS {
 			// 
 			// button33
 			// 
-			this->button33->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button33->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button33->Location = System::Drawing::Point(388, 275);
 			this->button33->Name = L"button33";
 			this->button33->Size = System::Drawing::Size(66, 39);
@@ -520,8 +520,8 @@ namespace CalculatorSS {
 			// 
 			// button34
 			// 
-			this->button34->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->button34->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->button34->Location = System::Drawing::Point(388, 319);
 			this->button34->Name = L"button34";
 			this->button34->Size = System::Drawing::Size(66, 39);
@@ -533,8 +533,8 @@ namespace CalculatorSS {
 			// label1
 			// 
 			this->label1->AutoSize = true;
-			this->label1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>(204)));
+			this->label1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Regular, 
+			System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
 			this->label1->ForeColor = System::Drawing::SystemColors::ControlDarkDark;
 			this->label1->Location = System::Drawing::Point(12, 9);
 			this->label1->Name = L"label1";
